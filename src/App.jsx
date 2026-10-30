@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import {Routes, Route, NavLink, Link, useLocation} from 'react-router-dom';
-import {ArrowRight, Menu, X, ShoppingBag, Store, Megaphone, Workflow, BarChart3, Layers3, Sparkles, CheckCircle2, Mail, CalendarDays, Instagram, Linkedin, Globe2, Zap, Target, TrendingUp, ChevronRight} from 'lucide-react';
-
+import {ArrowRight, Menu, X, ShoppingBag, Store, Megaphone, Workflow, BarChart3, Layers3, Sparkles, CheckCircle2, Mail, CalendarDays, Globe2, Zap, Target, TrendingUp, ChevronRight} from 'lucide-react';
 const email='contacto@altzedigital.com';
 const calendarUrl='https://calendar.google.com/calendar/u/0/appointments/schedules/'; // Sustituir por el enlace de reservas de Altze
 const services=[
